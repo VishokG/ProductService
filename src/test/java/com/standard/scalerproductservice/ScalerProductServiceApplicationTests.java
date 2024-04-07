@@ -1,0 +1,13 @@
+package com.standard.scalerproductservice;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ScalerProductServiceApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
